@@ -2,7 +2,8 @@
 DeepHFFT-m7G: A Dual-Channel Self-Attention and Hybrid Feature Fusion Framework for RNA m7G Modification Identification
 
 ## Graphical abstract
-![last250405_Graphical abstract](https://github.com/user-attachments/assets/60f3d755-e6b4-4597-85a5-bef06dd2f36e)
+![Graphical abstract conv 1](https://github.com/user-attachments/assets/c1f61cab-b08a-4d77-bf3d-6ad0b0a1d4b3)
+
 ## Flowchart of DeepHFFT-m7G
 ![last250324](https://github.com/user-attachments/assets/473fbc43-bf63-4305-ab1a-7de4214b40a9)
 ## RUN
