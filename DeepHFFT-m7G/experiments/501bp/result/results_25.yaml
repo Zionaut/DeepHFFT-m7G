@@ -1,0 +1,21 @@
+AUC:
+  Mean: 0.9753411350588204
+  Standard Deviation: 0.017964168343355524
+Accuracy:
+  Mean: 0.9691886964448496
+  Standard Deviation: 0.01274415983903674
+F1-Score:
+  Mean: 0.9688073728529158
+  Standard Deviation: 0.013542319935846205
+MCC:
+  Mean: 0.93930043646826
+  Standard Deviation: 0.024366838565588172
+Precision:
+  Mean: 0.9765446755486622
+  Standard Deviation: 0.018138498621622135
+Recall:
+  Mean: 0.9620783956244303
+  Standard Deviation: 0.03283322792160837
+Specificity:
+  Mean: 0.9762989972652688
+  Standard Deviation: 0.019476627729463545
