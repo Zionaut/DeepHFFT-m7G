@@ -47,7 +47,7 @@ python train2.py -k 25 -e 100
 #### ▶ Example Command
 
 ```bash
-python train2hm.py -k 25 -e 100
+python train2.py -k 25 -e 100
 ```
 
 #### Input File Structure
