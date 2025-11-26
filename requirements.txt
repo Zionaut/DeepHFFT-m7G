@@ -102,14 +102,6 @@ jsonschema-specifications==2023.12.1
 jupyter-events @ file:///home/conda/feedstock_root/build_artifacts/jupyter_events_1710805637316/work
 jupyter-lsp @ file:///home/conda/feedstock_root/build_artifacts/jupyter-lsp-meta_1712707420468/work/jupyter-lsp
 jupyter_client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1726610684920/work
-jupyter_core @ file:///home/conda/feedstock_root/build_artifacts/jupyter_core_1727163409502/work
-jupyter_server @ file:///home/conda/feedstock_root/build_artifacts/jupyter_server_1720816649297/work
-jupyter_server_terminals @ file:///home/conda/feedstock_root/build_artifacts/jupyter_server_terminals_1710262634903/work
-jupyterlab @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab_1724745148804/work
-jupyterlab_pygments @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab_pygments_1707149102966/work
-jupyterlab_server @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab_server-split_1721163288448/work
-jupyterlab_widgets==3.0.13
-kaleido==0.2.1
 kiwisolver==1.4.5
 lazy-object-proxy==1.4.3
 lifelines==0.27.8
@@ -137,27 +129,7 @@ nbformat @ file:///home/conda/feedstock_root/build_artifacts/nbformat_1712238998
 nest_asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1705850609492/work
 networkx==3.1
 nose==1.3.7
-notebook @ file:///home/conda/feedstock_root/build_artifacts/notebook_1724861303656/work
-notebook_shim @ file:///home/conda/feedstock_root/build_artifacts/notebook-shim_1707957777232/work
-numba==0.58.1
-numpy==1.24.4
-nvidia-nccl-cu12==2.23.4
-omegaconf==2.3.0
-opencv-python==3.4.9.31
-openpyxl==3.1.5
-ordered-set==4.1.0
-orjson==3.10.11
-overrides @ file:///home/conda/feedstock_root/build_artifacts/overrides_1706394519472/work
-packaging==24.1
-pandas==1.5.3
-pandocfilters @ file:///home/conda/feedstock_root/build_artifacts/pandocfilters_1631603243851/work
-parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1712320355065/work
-patsy==1.0.1
-pexpect @ file:///home/conda/feedstock_root/build_artifacts/pexpect_1706113125309/work
-pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
-pillow==10.4.0
-pkgutil_resolve_name @ file:///home/conda/feedstock_root/build_artifacts/pkgutil-resolve-name_1694617248815/work
-platformdirs==4.2.2
+noteboo
 plotly==5.24.1
 plotly-resampler==0.10.0
 pmdarima==2.0.4
@@ -182,14 +154,6 @@ pyparsing==3.1.4
 PyQt5==5.15.11
 PyQt5-Qt5==5.15.15
 PyQt5_sip==12.15.0
-PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
-python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1709299778482/work
-python-editor==1.0.4
-python-json-logger @ file:///home/conda/feedstock_root/build_artifacts/python-json-logger_1677079630776/work
-python-multipart==0.0.16
-python-slugify==8.0.4
-python-utils==3.5.2
-pytorch-lightning==1.8.5
 pytz==2024.1
 PyYAML @ file:///home/conda/feedstock_root/build_artifacts/pyyaml_1723018227672/work
 pyzmq @ file:///home/conda/feedstock_root/build_artifacts/pyzmq_1724399083222/work
@@ -233,25 +197,7 @@ starsessions==1.3.0
 statsmodels==0.14.1
 tape-proteins==0.5
 tbats==1.1.3
-tenacity==9.0.0
-tensorboardX==2.6.2.2
-terminado @ file:///home/conda/feedstock_root/build_artifacts/terminado_1710262609923/work
-text-unidecode==1.3
-threadpoolctl==3.5.0
-tinycss2==1.3.0
-tokenizers==0.12.1
-toml==0.10.1
-tomli==2.0.1
-torch==1.12.0+cu102
-torch-scatter @ file:///mnt/share/wzh1/Torch/torch_scatter-2.1.0%2Bpt112cu102-cp38-cp38-linux_x86_64.whl#sha256=4009049dca17ed3f9452d010f15a6e426e22a2e4b49633ee26e5dde2611fe293
-torch_geometric==2.5.3
-torchaudio==0.12.0+cu102
-torchmetrics==1.5.1
-torchvision==0.13.0+cu102
-tornado @ file:///home/conda/feedstock_root/build_artifacts/tornado_1717722826518/work
-tqdm==4.65.2
-traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1713535121073/work
-transformers==4.30.2
+
 tsdownsample==0.1.3
 types-python-dateutil==2.9.0.20240821
 typing-utils @ file:///home/conda/feedstock_root/build_artifacts/typing_utils_1622899189314/work
